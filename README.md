@@ -12,4 +12,4 @@
   * [Part 1 - MultiTask](https://colab.research.google.com/github/KCL-BMEIS/AdvancedMachineLearningCourse/blob/main/Week4-Multitask_and_domain_shift/Notebooks/Week4-part1-MultiTask.ipynb)
   * [Part 2 - Domain Shift](https://colab.research.google.com/github/KCL-BMEIS/AdvancedMachineLearningCourse/blob/main/Week4-Multitask_and_domain_shift/Notebooks/Week4-part2-DomainAdaptation.ipynb)
 * Week 8
-  * [Part 1 & 2 Unsupervised Learning](https://colab.research.google.com/github/KCL-BMEIS/AdvancedMachineLearningCourse/blob/main/Week8_Unsupervised_learning/Notebooks/Week8_Unsupervised_learning.ipynb)
+  * [Part 1 & 2 Unsupervised Learning](https://colab.research.google.com/github/KCL-BMEIS/AdvancedMachineLearningCourse/blob/main/Week8_Unsupervised_Learning/Notebooks/Week8_Unsupervised_Learning.ipynb)
