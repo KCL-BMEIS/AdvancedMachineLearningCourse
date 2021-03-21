@@ -15,3 +15,6 @@
   * [Part 1 & 2 Unsupervised Learning](https://colab.research.google.com/github/KCL-BMEIS/AdvancedMachineLearningCourse/blob/main/Week7_Unsupervised_learning/Notebooks/Week7_Unsupervised_learning.ipynb)
 * Week 8
   * [Part 1 & 2 Object Detection](https://colab.research.google.com/github/KCL-BMEIS/AdvancedMachineLearningCourse/blob/main/Week8_Object_Detection/Notebooks/Week8_Object_Detection.ipynb)
+* Week 9
+  * [Part 1 - Intro to Uncertainty](https://colab.research.google.com/github/KCL-BMEIS/AdvancedMachineLearningCourse/blob/main/Week9_Uncertainty/Notebooks/Week9-part1-Uncertainty_estimation.ipynb)
+  * [Part 2 - Further Uncertainty](https://colab.research.google.com/github/KCL-BMEIS/AdvancedMachineLearningCourse/blob/main/Week9_Uncertainty/Notebooks/Week9-part2-Uncertainty_estimation.ipynb)
