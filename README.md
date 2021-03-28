@@ -18,3 +18,5 @@
 * Week 9
   * [Part 1 - Intro to Uncertainty](https://colab.research.google.com/github/KCL-BMEIS/AdvancedMachineLearningCourse/blob/main/Week9_Uncertainty/Notebooks/Week9-part1-Uncertainty_estimation.ipynb)
   * [Part 2 - Further Uncertainty](https://colab.research.google.com/github/KCL-BMEIS/AdvancedMachineLearningCourse/blob/main/Week9_Uncertainty/Notebooks/Week9-part2-Uncertainty_estimation.ipynb)
+* Week 10 
+  * [Part 1 - Sequence Modelling](https://colab.research.google.com/github/KCL-BMEIS/AdvancedMachineLearningCourse/blob/main/Week10_Sequences_and_Geometry/Notebooks/Week10_part1_RNN_and_Sequence_modelling.ipynb)
